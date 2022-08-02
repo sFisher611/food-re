@@ -1,4 +1,4 @@
-package uz.food.project
+package uz.food.project.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,6 +8,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import kotlinx.android.synthetic.main.activity_main.*
+import uz.food.project.R
 
 
 class MainActivity : AppCompatActivity() {
